@@ -2,6 +2,4 @@
 MapleStory "Protest" Alliance Issue Tracker
 
 # How to submit demand, bug, etc.?
-Please follow this link to submit details about your issue. If you need to submit an image or video, please link to an external website like Youtube or Imgur.
-
-Thank you!
+[Please follow this link to submit details about your issue.](https://gitreports.com/issue/Maple-Alliance/Issue-Tracker) 
